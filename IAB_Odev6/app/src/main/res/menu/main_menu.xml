@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/anasayfa_menu"
+        android:icon="@drawable/flower"
+        android:title="Anasayfa"
+        android:visible="true" />
+    <item
+        android:id="@+id/kategoriler_menu"
+        android:icon="@drawable/category"
+        android:title="Kategoriler" />
+    <item
+        android:id="@+id/favoriler_menu"
+        android:icon="@drawable/love"
+        android:title="Favorilerim" />
+    <item
+        android:id="@+id/sepetim_menu"
+        android:icon="@drawable/shopping"
+        android:title="Sepetim" />
+    <item
+        android:id="@+id/hesabim_menu"
+        android:icon="@drawable/user"
+        android:title="Hesabım" />
+</menu>
